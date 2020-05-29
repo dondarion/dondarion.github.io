@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Sam Mo Portfolio
+title: Peter James Portfolio
 logo: logo.png
-email: omojolasamsonade@gmail.com
+email: peterjames7824@gmail.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sam <br> Content Writer
+  hero-title: Hi! I’m <br> Peter <br> Content Writer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -289,4 +289,4 @@ experience:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: omojolasamsonade@gmail.com
+contact-email: peterjames7824@gmail.com
