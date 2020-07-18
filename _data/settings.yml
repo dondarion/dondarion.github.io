@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Peter James Portfolio
+title: Samson Omojola Portfolio
 logo: logo.png
-email: peterjames7824@gmail.com
+email: omojolasamsonade@gmail.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Peter <br> Content Writer
+  hero-title: Hi! I’m <br> Sam <br> Content Writer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -289,4 +289,4 @@ experience:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: peterjames7824@gmail.com
+contact-email: omojolasamsonade@gmail.com
